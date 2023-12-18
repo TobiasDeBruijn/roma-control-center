@@ -7,4 +7,7 @@ edition = "2021"
 crate-type = ["cdylib"]
 
 [dependencies]
+barrage = "0.2.3"
 flutter_rust_bridge = "1.82.5"
+serial2 = "0.2.14"
+thiserror = "1.0.51"
